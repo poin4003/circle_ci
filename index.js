@@ -37,7 +37,7 @@ app.get('/product', async (req, res) => {
   }
 });
 
-console.log("cc");
+console.log("ccccccc");
 
 app.post('/product', async (req, res) => {
   const { name, price } = req.body;
